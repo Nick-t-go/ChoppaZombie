@@ -141,6 +141,9 @@ class SimpleScene extends Phaser.Scene {
   }
 
   compareAngles(a1, a2) {
+    if (a2 > 180) {
+      a2 = 180 - a2
+    }
     return (a1 <= a2 + 5 && a1 > a2) || (a1 >= a2 - 5 && a1 < a2);
   }
 
