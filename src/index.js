@@ -9,6 +9,12 @@ import { SceneLoad } from './scenes/scene-load';
 const gameConfig = {
   width: ScreenConfig.width(),
   height: ScreenConfig.height(),
+  physics: {
+    default: 'arcade',
+    arcade: {
+      debug: true,
+    },
+  },
   scene: [SceneLoad, SceneTitle, SimpleScene, SceneOver],
 };
 

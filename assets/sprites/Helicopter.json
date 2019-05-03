@@ -1,0 +1,170 @@
+{
+	"textures": [
+		{
+			"image": "Helicopter.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1227,
+				"h": 818
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Helicopter0000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 409,
+						"h": 409
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 409,
+						"h": 409
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 409,
+						"h": 409
+					},
+					"anchor": {
+						"x": 0.4938875305623472,
+						"y": 0.39364303178484106
+					}
+				},
+				{
+					"filename": "Helicopter0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 409,
+						"h": 409
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 409,
+						"h": 409
+					},
+					"frame": {
+						"x": 409,
+						"y": 0,
+						"w": 409,
+						"h": 409
+					},
+					"anchor": {
+						"x": 0.49388753,
+						"y": 0.39364303
+					}
+				},
+				{
+					"filename": "Helicopter0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 409,
+						"h": 409
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 409,
+						"h": 409
+					},
+					"frame": {
+						"x": 818,
+						"y": 0,
+						"w": 409,
+						"h": 409
+					},
+					"anchor": {
+						"x": 0.49388753,
+						"y": 0.39364303
+					}
+				},
+				{
+					"filename": "Helicopter0003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 409,
+						"h": 409
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 409,
+						"h": 409
+					},
+					"frame": {
+						"x": 0,
+						"y": 409,
+						"w": 409,
+						"h": 409
+					},
+					"anchor": {
+						"x": 0.49388753,
+						"y": 0.39364303
+					}
+				},
+				{
+					"filename": "Helicopter0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 409,
+						"h": 409
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 409,
+						"h": 409
+					},
+					"frame": {
+						"x": 409,
+						"y": 409,
+						"w": 409,
+						"h": 409
+					},
+					"anchor": {
+						"x": 0.49388753,
+						"y": 0.39364303
+					}
+				},
+				{
+					"filename": "Helicopter0005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 409,
+						"h": 409
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 409,
+						"h": 409
+					},
+					"frame": {
+						"x": 818,
+						"y": 409,
+						"w": 409,
+						"h": 409
+					},
+					"anchor": {
+						"x": 0.49388753,
+						"y": 0.39364303
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b5243642bccdde017754b6cf820c690e:49d3b3e6ca793d16c869038194f49574:1abe15fd96eca72a1c9ee4efa77e0f6a$"
+	}
+}
