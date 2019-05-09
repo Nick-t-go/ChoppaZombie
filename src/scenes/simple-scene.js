@@ -131,31 +131,32 @@ class SimpleScene extends Phaser.Scene {
       this.tx = this.background.input.localX;
       this.ty = this.background.input.localY;
 
-      console.log(this.choppa, this.tx, this.ty);
-
       const radians = this.physics.moveTo(this.choppa, this.tx, this.ty, 100);
       const angle = this.toDegrees(radians);
       this.directionAngle = angle + 90;
-      console.log(angle, radians);
+      this.radians = radians;
+      console.log(angle, this.directionAngle);
+      //console.log(angle, radians);
     }
   }
 
   compareAngles(a1, a2) {
     if (a2 > 180) {
-      a2 = 180 - a2
+      a2 = a2 % 180 * -1 - 90;
     }
     return (a1 <= a2 + 5 && a1 > a2) || (a1 >= a2 - 5 && a1 < a2);
   }
 
   update() {
+    //console.log(this.choppa.angle)
     const distX = Math.abs(this.choppa.x - this.tx);
     const distY = Math.abs(this.choppa.y - this.ty);
     if (distX < 10 && distY < 10) {
       this.choppa.body.setVelocity(0, 0);
     }
     if (this.directionAngle !== this.choppa.angle && this.choppa) {
-      if( this.compareAngles(this.choppa.angle, this.directionAngle)) {
-         this.choppa.angle = this.directionAngle;
+      if( this.compareAngles(this.choppa.angle, this.directionAngle)) { 
+         this.choppa.roation = this.directionAngle > 180 ? (this.directionAngle % 180 * -1 - 90) : this.directionAngle; 
       } else {
         this.choppa.angle++;
       }
