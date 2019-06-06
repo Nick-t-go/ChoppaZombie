@@ -1,0 +1,461 @@
+{
+	"textures": [
+		{
+			"image": "LadderNew-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1928,
+				"h": 250
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Ladder0119.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 517,
+						"y": 556,
+						"w": 172,
+						"h": 223
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 172,
+						"h": 223
+					}
+				},
+				{
+					"filename": "Ladder0101.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 526,
+						"y": 551,
+						"w": 175,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 226,
+						"w": 175,
+						"h": 23
+					}
+				},
+				{
+					"filename": "Ladder0120.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 517,
+						"y": 557,
+						"w": 172,
+						"h": 223
+					},
+					"frame": {
+						"x": 175,
+						"y": 1,
+						"w": 172,
+						"h": 223
+					}
+				},
+				{
+					"filename": "Ladder0100.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 178,
+						"y": 226,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "Ladder0118.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 517,
+						"y": 556,
+						"w": 173,
+						"h": 220
+					},
+					"frame": {
+						"x": 349,
+						"y": 1,
+						"w": 173,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Ladder0102.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 526,
+						"y": 551,
+						"w": 174,
+						"h": 26
+					},
+					"frame": {
+						"x": 349,
+						"y": 223,
+						"w": 174,
+						"h": 26
+					}
+				},
+				{
+					"filename": "Ladder0117.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 517,
+						"y": 556,
+						"w": 173,
+						"h": 215
+					},
+					"frame": {
+						"x": 524,
+						"y": 1,
+						"w": 173,
+						"h": 215
+					}
+				},
+				{
+					"filename": "Ladder0103.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 526,
+						"y": 551,
+						"w": 174,
+						"h": 31
+					},
+					"frame": {
+						"x": 525,
+						"y": 218,
+						"w": 174,
+						"h": 31
+					}
+				},
+				{
+					"filename": "Ladder0116.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 518,
+						"y": 556,
+						"w": 173,
+						"h": 208
+					},
+					"frame": {
+						"x": 699,
+						"y": 1,
+						"w": 173,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Ladder0115.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 519,
+						"y": 555,
+						"w": 173,
+						"h": 199
+					},
+					"frame": {
+						"x": 874,
+						"y": 1,
+						"w": 173,
+						"h": 199
+					}
+				},
+				{
+					"filename": "Ladder0104.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 526,
+						"y": 551,
+						"w": 174,
+						"h": 39
+					},
+					"frame": {
+						"x": 874,
+						"y": 202,
+						"w": 174,
+						"h": 39
+					}
+				},
+				{
+					"filename": "Ladder0114.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 519,
+						"y": 555,
+						"w": 174,
+						"h": 186
+					},
+					"frame": {
+						"x": 1049,
+						"y": 1,
+						"w": 174,
+						"h": 186
+					}
+				},
+				{
+					"filename": "Ladder0105.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 526,
+						"y": 551,
+						"w": 174,
+						"h": 49
+					},
+					"frame": {
+						"x": 1050,
+						"y": 189,
+						"w": 174,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Ladder0113.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 520,
+						"y": 554,
+						"w": 174,
+						"h": 173
+					},
+					"frame": {
+						"x": 1225,
+						"y": 1,
+						"w": 174,
+						"h": 173
+					}
+				},
+				{
+					"filename": "Ladder0107.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 525,
+						"y": 552,
+						"w": 174,
+						"h": 73
+					},
+					"frame": {
+						"x": 1226,
+						"y": 176,
+						"w": 174,
+						"h": 73
+					}
+				},
+				{
+					"filename": "Ladder0112.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 521,
+						"y": 554,
+						"w": 174,
+						"h": 156
+					},
+					"frame": {
+						"x": 1401,
+						"y": 1,
+						"w": 174,
+						"h": 156
+					}
+				},
+				{
+					"filename": "Ladder0108.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 552,
+						"w": 174,
+						"h": 89
+					},
+					"frame": {
+						"x": 1402,
+						"y": 159,
+						"w": 174,
+						"h": 89
+					}
+				},
+				{
+					"filename": "Ladder0111.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 553,
+						"w": 174,
+						"h": 140
+					},
+					"frame": {
+						"x": 1577,
+						"y": 1,
+						"w": 174,
+						"h": 140
+					}
+				},
+				{
+					"filename": "Ladder0110.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 523,
+						"y": 553,
+						"w": 174,
+						"h": 122
+					},
+					"frame": {
+						"x": 1753,
+						"y": 1,
+						"w": 174,
+						"h": 122
+					}
+				},
+				{
+					"filename": "Ladder0106.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 525,
+						"y": 551,
+						"w": 174,
+						"h": 61
+					},
+					"frame": {
+						"x": 1753,
+						"y": 125,
+						"w": 174,
+						"h": 61
+					}
+				},
+				{
+					"filename": "Ladder0109.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 552,
+						"w": 173,
+						"h": 106
+					},
+					"frame": {
+						"x": 1578,
+						"y": 143,
+						"w": 173,
+						"h": 106
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a20ef0edf7d5e415f09188431aa98983:f9bad7b815abbf3ced3b22cd4a56199e:8cf5d05bc9921525ce6f42cdecd89d40$"
+	}
+}

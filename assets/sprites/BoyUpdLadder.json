@@ -1,0 +1,881 @@
+{
+	"textures": [
+		{
+			"image": "BoyUpdLadder.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 64,
+				"h": 459
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "BoyUpLadder0058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 323,
+						"y": 268,
+						"w": 31,
+						"h": 25
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 31,
+						"h": 25
+					}
+				},
+				{
+					"filename": "BoyUpLadder0034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 354,
+						"y": 271,
+						"w": 28,
+						"h": 22
+					},
+					"frame": {
+						"x": 34,
+						"y": 1,
+						"w": 28,
+						"h": 22
+					}
+				},
+				{
+					"filename": "BoyUpLadder0048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 340,
+						"y": 270,
+						"w": 28,
+						"h": 22
+					},
+					"frame": {
+						"x": 34,
+						"y": 25,
+						"w": 28,
+						"h": 22
+					}
+				},
+				{
+					"filename": "BoyUpLadder0059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 323,
+						"y": 268,
+						"w": 31,
+						"h": 25
+					},
+					"frame": {
+						"x": 1,
+						"y": 28,
+						"w": 31,
+						"h": 25
+					}
+				},
+				{
+					"filename": "BoyUpLadder0035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 354,
+						"y": 271,
+						"w": 27,
+						"h": 22
+					},
+					"frame": {
+						"x": 34,
+						"y": 49,
+						"w": 27,
+						"h": 22
+					}
+				},
+				{
+					"filename": "BoyUpLadder0060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 322,
+						"y": 268,
+						"w": 31,
+						"h": 25
+					},
+					"frame": {
+						"x": 1,
+						"y": 55,
+						"w": 31,
+						"h": 25
+					}
+				},
+				{
+					"filename": "BoyUpLadder0036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 354,
+						"y": 271,
+						"w": 27,
+						"h": 22
+					},
+					"frame": {
+						"x": 34,
+						"y": 73,
+						"w": 27,
+						"h": 22
+					}
+				},
+				{
+					"filename": "BoyUpLadder0061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 321,
+						"y": 268,
+						"w": 31,
+						"h": 25
+					},
+					"frame": {
+						"x": 1,
+						"y": 82,
+						"w": 31,
+						"h": 25
+					}
+				},
+				{
+					"filename": "BoyUpLadder0046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 343,
+						"y": 271,
+						"w": 28,
+						"h": 21
+					},
+					"frame": {
+						"x": 34,
+						"y": 97,
+						"w": 28,
+						"h": 21
+					}
+				},
+				{
+					"filename": "BoyUpLadder0062.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 321,
+						"y": 269,
+						"w": 30,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 109,
+						"w": 30,
+						"h": 23
+					}
+				},
+				{
+					"filename": "BoyUpLadder0063.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 320,
+						"y": 269,
+						"w": 30,
+						"h": 23
+					},
+					"frame": {
+						"x": 33,
+						"y": 120,
+						"w": 30,
+						"h": 23
+					}
+				},
+				{
+					"filename": "BoyUpLadder0055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 329,
+						"y": 269,
+						"w": 30,
+						"h": 21
+					},
+					"frame": {
+						"x": 1,
+						"y": 134,
+						"w": 30,
+						"h": 21
+					}
+				},
+				{
+					"filename": "BoyUpLadder0049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 339,
+						"y": 270,
+						"w": 28,
+						"h": 21
+					},
+					"frame": {
+						"x": 33,
+						"y": 145,
+						"w": 28,
+						"h": 21
+					}
+				},
+				{
+					"filename": "BoyUpLadder0037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 354,
+						"y": 271,
+						"w": 26,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 157,
+						"w": 26,
+						"h": 22
+					}
+				},
+				{
+					"filename": "BoyUpLadder0057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 324,
+						"y": 269,
+						"w": 32,
+						"h": 23
+					},
+					"frame": {
+						"x": 29,
+						"y": 168,
+						"w": 32,
+						"h": 23
+					}
+				},
+				{
+					"filename": "BoyUpLadder0038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 354,
+						"y": 271,
+						"w": 26,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 181,
+						"w": 26,
+						"h": 22
+					}
+				},
+				{
+					"filename": "BoyUpLadder0056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 326,
+						"y": 269,
+						"w": 32,
+						"h": 22
+					},
+					"frame": {
+						"x": 29,
+						"y": 193,
+						"w": 32,
+						"h": 22
+					}
+				},
+				{
+					"filename": "BoyUpLadder0039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 353,
+						"y": 272,
+						"w": 26,
+						"h": 21
+					},
+					"frame": {
+						"x": 1,
+						"y": 205,
+						"w": 26,
+						"h": 21
+					}
+				},
+				{
+					"filename": "BoyUpLadder0065.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 316,
+						"y": 271,
+						"w": 34,
+						"h": 20
+					},
+					"frame": {
+						"x": 29,
+						"y": 217,
+						"w": 34,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BoyUpLadder0052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 336,
+						"y": 270,
+						"w": 26,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 228,
+						"w": 26,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BoyUpLadder0064.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 318,
+						"y": 270,
+						"w": 32,
+						"h": 21
+					},
+					"frame": {
+						"x": 29,
+						"y": 239,
+						"w": 32,
+						"h": 21
+					}
+				},
+				{
+					"filename": "BoyUpLadder0040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 353,
+						"y": 272,
+						"w": 25,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 250,
+						"w": 25,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BoyUpLadder0066.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 314,
+						"y": 271,
+						"w": 35,
+						"h": 20
+					},
+					"frame": {
+						"x": 28,
+						"y": 262,
+						"w": 35,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BoyUpLadder0030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 358,
+						"y": 272,
+						"w": 24,
+						"h": 18
+					},
+					"frame": {
+						"x": 1,
+						"y": 272,
+						"w": 24,
+						"h": 18
+					}
+				},
+				{
+					"filename": "BoyUpLadder0067.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 313,
+						"y": 271,
+						"w": 36,
+						"h": 20
+					},
+					"frame": {
+						"x": 27,
+						"y": 284,
+						"w": 36,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BoyUpLadder0031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 358,
+						"y": 272,
+						"w": 24,
+						"h": 18
+					},
+					"frame": {
+						"x": 1,
+						"y": 292,
+						"w": 24,
+						"h": 18
+					}
+				},
+				{
+					"filename": "BoyUpLadder0068.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 313,
+						"y": 271,
+						"w": 36,
+						"h": 20
+					},
+					"frame": {
+						"x": 27,
+						"y": 306,
+						"w": 36,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BoyUpLadder0069.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1,
+						"y": 312,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "BoyUpLadder0070.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1,
+						"y": 312,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "BoyUpLadder0045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 344,
+						"y": 273,
+						"w": 32,
+						"h": 19
+					},
+					"frame": {
+						"x": 1,
+						"y": 328,
+						"w": 32,
+						"h": 19
+					}
+				},
+				{
+					"filename": "BoyUpLadder0033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 355,
+						"y": 271,
+						"w": 27,
+						"h": 21
+					},
+					"frame": {
+						"x": 35,
+						"y": 328,
+						"w": 27,
+						"h": 21
+					}
+				},
+				{
+					"filename": "BoyUpLadder0044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 344,
+						"y": 274,
+						"w": 32,
+						"h": 18
+					},
+					"frame": {
+						"x": 1,
+						"y": 349,
+						"w": 32,
+						"h": 18
+					}
+				},
+				{
+					"filename": "BoyUpLadder0047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 342,
+						"y": 271,
+						"w": 27,
+						"h": 21
+					},
+					"frame": {
+						"x": 35,
+						"y": 351,
+						"w": 27,
+						"h": 21
+					}
+				},
+				{
+					"filename": "BoyUpLadder0050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 338,
+						"y": 270,
+						"w": 27,
+						"h": 21
+					},
+					"frame": {
+						"x": 1,
+						"y": 369,
+						"w": 27,
+						"h": 21
+					}
+				},
+				{
+					"filename": "BoyUpLadder0051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 337,
+						"y": 270,
+						"w": 27,
+						"h": 21
+					},
+					"frame": {
+						"x": 30,
+						"y": 374,
+						"w": 27,
+						"h": 21
+					}
+				},
+				{
+					"filename": "BoyUpLadder0041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 351,
+						"y": 273,
+						"w": 27,
+						"h": 19
+					},
+					"frame": {
+						"x": 1,
+						"y": 392,
+						"w": 27,
+						"h": 19
+					}
+				},
+				{
+					"filename": "BoyUpLadder0043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 346,
+						"y": 274,
+						"w": 31,
+						"h": 18
+					},
+					"frame": {
+						"x": 30,
+						"y": 397,
+						"w": 31,
+						"h": 18
+					}
+				},
+				{
+					"filename": "BoyUpLadder0032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 357,
+						"y": 272,
+						"w": 26,
+						"h": 19
+					},
+					"frame": {
+						"x": 1,
+						"y": 413,
+						"w": 26,
+						"h": 19
+					}
+				},
+				{
+					"filename": "BoyUpLadder0054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 332,
+						"y": 270,
+						"w": 28,
+						"h": 20
+					},
+					"frame": {
+						"x": 29,
+						"y": 417,
+						"w": 28,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BoyUpLadder0053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 335,
+						"y": 271,
+						"w": 26,
+						"h": 19
+					},
+					"frame": {
+						"x": 1,
+						"y": 434,
+						"w": 26,
+						"h": 19
+					}
+				},
+				{
+					"filename": "BoyUpLadder0042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 349,
+						"y": 273,
+						"w": 28,
+						"h": 19
+					},
+					"frame": {
+						"x": 29,
+						"y": 439,
+						"w": 28,
+						"h": 19
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b7900d6fcc1d82f93dd003ffaf648eed:5b089cba7f8228a61adb6eed063ab2fd:8b62e8a1891c5a27a8df7e08a01ba068$"
+	}
+}
